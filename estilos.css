@@ -156,6 +156,7 @@ ul {
 
 .home {
     display: flex;
+    /*background: url(banner.jpg) no-repeat center;*/
     background: url(banner.jpg) no-repeat center;
     height: 100vh;
     color: #fff;
